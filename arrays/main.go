@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("Welcome to arrays in the GOLANG.")
+	fmt.Println("WE")
 
 	var skills [4]string
 	skills[0] = "FRONTEND"

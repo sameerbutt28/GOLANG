@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("Welcome to the class of pointers..")
 	var myptr *int
-	fmt.Println("Value of the pointer is:  ", myptr)
+	fmt.Println("Value of the pointer is  ", myptr)
 
 	myNumber := 28
 	var ptr = &myNumber

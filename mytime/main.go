@@ -7,7 +7,7 @@ import (
 
 func main() {
 	fmt.Println("Welcome to the time management in GOLANG. ")
-	fmt.Println("Enjoying alot  ")
+	fmt.Println("Enjoying alott")
 	presentTime := time.Now()
 	fmt.Println(presentTime)
 	fmt.Println(presentTime.Format("01-02-2006 15:04:05 Monday"))
